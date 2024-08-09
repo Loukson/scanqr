@@ -28,7 +28,7 @@ const {
 } = require("node:fs/promises")
 router.get('/', async (req, res) => {
 	const id = makeid();
-	async function BLADE-MD-V2-QR() {
+	async function WASI_MD_QR_CODE() {
 		const {
 			state,
 			saveCreds
